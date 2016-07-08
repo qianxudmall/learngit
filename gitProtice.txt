@@ -10,3 +10,7 @@ wqe
 
 
 branch
+
+
+deal conflict
+new branch
